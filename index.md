@@ -7,7 +7,9 @@ You can see the ZJE website [here](https://zje.zju.edu.cn/zje/main.htm)
 
 ## About Me
 
-![My photo](profile.jpg)
+<div style="text-align:center;">
+  <img src="profile.jpg" style="width:120px; height:120px; border-radius:50%;">
+</div>
 
 I am interested in biomedical science and exploring new knowledge.
 
