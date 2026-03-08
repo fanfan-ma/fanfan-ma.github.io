@@ -7,8 +7,11 @@ You can see the ZJE website [here](https://zje.zju.edu.cn/zje/main.htm)
 
 ## About Me
 
+![My photo](profile.jpg)
+
 I am interested in biomedical science and exploring new knowledge.
-I am an INFP. I am a contemplative person and I enjoy bening lost in thought.
+
+I am an INFP. I am a contemplative person and I enjoy being lost in thought.
 
 ## Things I Like
 
